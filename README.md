@@ -1,18 +1,19 @@
-# Joseph Elliott
+# Joseph Elliott 🚀
 ## Software Developer
-- Pursuing a Bachelor of Science in Computer Science at Florida State University, graduating in 2027.
-- Special focus on Machine Learning within the field of Computer Science.
-- Engaged in various academic projects to deepen understanding of development workflows.
-- Eager to learn and explore more within the realms of Computer Science and Machine Learning.
+- **Education**: Pursuing a Bachelor of Science in Computer Science at Florida State University, class of 2027 🎓.
+- **Specialization**: Focused on Machine Learning within Computer Science 🤖.
+- **Academic Projects**: Actively engaged in diverse projects to enhance development skills and workflows 🛠️.
+- **Passion for Learning**: Always eager to discover and master new territories in Computer Science and Machine Learning 🔍.
 
-## Skills
-- Javascript | Typescript
-- Python
-- MongoDb | Firebase
-- Bootstrap | Css
-- Git
-- Docker
-- Sklearn | Pandas
-## Contact
-- [Linkdin](https://www.linkedin.com/in/joseph-elliott-32109729b/)
-- Email: jwe23@fsu.edu
+## Technical Skills
+- **Languages**: JavaScript | TypeScript 📜
+- **Data Science**: Python 🐍
+- **Databases**: MongoDB | Firebase 🔗
+- **Web Development**: Bootstrap | CSS 💻
+- **Version Control**: Git 🌐
+- **Containerization**: Docker 🐳
+- **Machine Learning Tools**: Scikit-Learn | Pandas 📊
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/joseph-elliott-32109729b/) 💼
+- **Email**: jwe23@fsu.edu 📧
