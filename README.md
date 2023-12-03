@@ -6,10 +6,9 @@
 - **Passion for Learning**: Always eager to discover and master new territories in Computer Science and Machine Learning 🔍.
 
 ## Technical Skills
-- **Languages**: JavaScript | TypeScript 📜
 - **Data Science**: Python 🐍
 - **Databases**: MongoDB | Firebase 🔗
-- **Web Development**: Bootstrap | CSS 💻
+- **Web Development**: HTML | Bootstrap | CSS 💻
 - **Version Control**: Git 🌐
 - **Containerization**: Docker 🐳
 - **Machine Learning Tools**: Scikit-Learn | Pandas 📊
